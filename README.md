@@ -11,8 +11,11 @@
   - CPU FAN : 加購 
 
 ## 資源
+
 1. Windows Nvidia PCIE 3.0 支援 [mirror](windows/nvidia/force-enable-gen3.exe)
+
 [Geforce Gen3 Support On X79 Platform](http://nvidia.custhelp.com/app/answers/detail/a_id/3135/~/geforce-gen3-support-on-x79-platform)
+
 記得用管理員權限執行，重開機才有效果 
 
 2. [华南x79第二版，基本完美，板载声卡已残](http://bbs.pcbeta.com/viewthread-1724967-1-1.html)
