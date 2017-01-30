@@ -47,11 +47,14 @@
 > [69F](http://bbs.pcbeta.com/forum.php?mod=redirect&goto=findpost&ptid=1724967&pid=46905832)
 > <br>
 > 比较完整的一次更新，Clover版本是3969，nvme硬盘完美内建
+> <br>
 > [华南x7946_nvme_201701.zip](hackintosh/69F/x7946_nvme_201701.zip)  [config.plist.zip](hackintosh/69F/config.plist.zip) [kexts.zip](hackintosh/69F/kexts.zip)
+> <br>
 > ![](http://i.imgur.com/lZiJj54.png)
 > <br>
 > 适应CPU E5 1650
 > 变频问题，系统成功安装完成后，运行 10.12 aicpm patch.command 补丁 [10.12 aicpm patch.command.zip](hackintosh/69F/10.12_aicpm patch.command.zip)
+> <br>
 > 其他CPU请根据CPU核心数量修改驱动VodoTSCSync的info：核心数-1=IOCPUNumber
 > ![](http://i.imgur.com/W63Lxa5.png)
 > <br>
