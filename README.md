@@ -36,6 +36,7 @@
 <br>
 
 > [30F](http://bbs.pcbeta.com/forum.php?mod=redirect&goto=findpost&ptid=1724967&pid=46809163)
+> <br>
 > > 请问一下楼主 睡眠是怎么解决的呢，我的机器睡眠不行，其他都差不多了，想了解学习一下
 >
 > 这板主电源管理芯片， 支持S1， S4和关机， 不支持S3睡眠。 
@@ -44,6 +45,7 @@
 <br>
 
 > [69F](http://bbs.pcbeta.com/forum.php?mod=redirect&goto=findpost&ptid=1724967&pid=46905832)
+> <br>
 > 比较完整的一次更新，Clover版本是3969，nvme硬盘完美内建
 > [华南x7946_nvme_201701.zip](hackintosh/69F/x7946_nvme_201701.zip)  [config.plist.zip](hackintosh/69F/config.plist.zip) [kexts.zip](hackintosh/69F/kexts.zip)
 > ![](http://i.imgur.com/lZiJj54.png)
